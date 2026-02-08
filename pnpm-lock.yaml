@@ -18,8 +18,8 @@ importers:
         specifier: ^2.0.2
         version: 2.0.2
       eruda:
-        specifier: ^3.0.1
-        version: 3.0.1
+        specifier: ^3.4.3
+        version: 3.4.3
       solid-js:
         specifier: ^1.8.17
         version: 1.8.17
@@ -1387,8 +1387,8 @@ packages:
   email-addresses@5.0.0:
     resolution: {integrity: sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw==}
 
-  eruda@3.0.1:
-    resolution: {integrity: sha512-6q1Xdwga4JTr1mKSW4mzuWSSbmXgqpm/8Wa1QGFGfCWRjC0bCQjbS4u06M1te1moucIS3hBLlbSTPWYH2W0qbQ==}
+  eruda@3.4.3:
+    resolution: {integrity: sha512-J2TsF4dXSspOXev5bJ6mljv0dRrxj21wklrDzbvPmYaEmVoC+2psylyRi70nUPFh1mTQfIBsSusUtAMZtUN+/w==}
 
   esbuild@0.20.2:
     resolution: {integrity: sha512-WdOOppmUNU+IbZ0PaDiTst80zjnrOkyJNHoKupIcVyU8Lvla3Ugx94VzkQ32Ijqd7UhHJy75gNWDMUekcrSJ6g==}
@@ -3593,7 +3593,7 @@ snapshots:
 
   email-addresses@5.0.0: {}
 
-  eruda@3.0.1: {}
+  eruda@3.4.3: {}
 
   esbuild@0.20.2:
     optionalDependencies:

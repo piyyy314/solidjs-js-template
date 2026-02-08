@@ -21,7 +21,7 @@
     "@solidjs/router": "^0.13.3",
     "@telegram-apps/sdk-solid": "^2.0.5",
     "@tonconnect/ui": "^2.0.2",
-    "eruda": "^3.0.1",
+    "eruda": "^3.4.3",
     "solid-js": "^1.8.17",
     "vite-plugin-mkcert": "^1.17.6"
   },
